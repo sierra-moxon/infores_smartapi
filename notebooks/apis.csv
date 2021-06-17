@@ -1,157 +1,157 @@
-title,component,team,trapi_version,biolink_version,concact_name,contact_email,server_url,server_description
-Roadway Exposures API,KP,['Exposures Provider'],unknown,,,,/roadway_proximity_api/v1,
-Socio-Environmental Exposures API,KP,['Exposures Provider'],unknown,,,,/socio_environmental_exposures_api/v1,
-CMAQ Exposures API,KP,['Exposures Provider'],unknown,,,,/cmaq_exposures_api/v1,
-NCATS KP Scaffold,,,unknown,,,,http://transltr.io:7072,Production server
-Name Resolver,Utility,['Standards Reference Implementation Team'],unknown,,,,https://name-resolution-sri.renci.org/,Default server
-SRI Reference Knowledge Graph API,KP,['Standards Reference Implementation Team'],unknown,,,,https://trapi.monarchinitiative.org,Default server
-NCATS ARA Scaffold,,,unknown,,,,http://transltr.io:7073,Production server
-CAM-KP API,KP,['Exposures Provider'],unknown,,,,https://stars-app.renci.org/cam-kp,
-Edge Normalization Service,Utility,['Standards Reference Implementation Team'],unknown,,,,https://edgenormalization-sri.renci.org/,Default server
-OpenAPI for NCATS Biomedical Translator Reasoners,ARA,['Unsecret Agent'],1.1.0,1.4.0,,,https://unsecret.ncats.io/v2,Service endpoint for TRAPI 1.1
-Automat MyChem,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/mychem,Default server
-OpenTarget API,KP,['Service Provider'],unknown,,,,https://platform-api.opentargets.io/v3,Production server
-Automat Pharos,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/pharos,Default server
-Node Normalization,Utility,['Standards Reference Implementation Team'],unknown,,,,https://nodenormalization-sri.renci.org/,Default server
-Automat Human GOA,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/human-goa,Default server
-ICEES API,KP,['Exposures Provider'],1.1.0,,,,https://icees.renci.org:16339,
-Automat HGNC,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/hgnc,Default server
-Automat HMDB,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/hmdb,Default server
-Strider,ARA,['Ranking Agent'],1.1.0,,,,http://robokop.renci.org:5782,
-Automat Textmining KP,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/textminingkp,Default server
-Automat Chemical normalization,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/chemical-normalization,Default server
-Automat Gtopdb,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/gtopdb,Default server
-Automat Hetio,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/hetio,Default server
-Automat Chembio,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/chembio,Default server
-QuickGO API,KP,['Service Provider'],unknown,,,,https://www.ebi.ac.uk/QuickGO/services,Production server
-Automat Panther,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/panther,Default server
-Automat Ontological Hierarchy,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/ontological-hierarchy,Default server
-Automat GTEx,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/gtex,Default server
-CAM-KP API,KP,['Exposures Provider'],1.1.0,1.8.2,,,https://cam-kp-api-dev.renci.org,
-Automat CTD,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/ctd,Default server
-Automat Foodb,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/foodb,Default server
-ARAGORN,ARA,['Ranking Agent'],unknown,,,,https://aragorn.renci.org/1.1,Default server
-ChEMBL API,,,unknown,,,,http://www.ebi.ac.uk/chembl/api,Production server
-Automat Uberongraph,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/uberongraph,Default server
-Automat Covid Phenotypes,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/covid-phenotypes,Default server
-Ontology Lookup Service API,KP,['Service Provider'],unknown,,,,https://www.ebi.ac.uk/ols/api,Production server
-LitVar API,KP,['Service Provider'],unknown,,,,https://www.ncbi.nlm.nih.gov/research/bionlp/litvar/api/v1,Production server
-Automat KEGG,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/kegg,Default server
-Automat Viral Proteome,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/viral-proteome,Default server
-Automat IntAct,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/intact,Default server
-RGD API,,,unknown,,,,https://rest.rgd.mcw.edu/rgdws,Production server
-Automat Biolink,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/biolink,Default server
-ICEES API,KP,['Exposures Provider'],1.1.0,,,,https://icees.renci.org:16341,
-Node Normalization,Utility,['Standards Reference Implementation Team'],unknown,,,,https://nodenormalization-sri.renci.org/1.1,Default server
-Automat Cord19 Scibite,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/cord19-scibite,Default server
-Automat Cord19 Scigraph,KP,['Ranking Agent'],unknown,,,,https://automat.renci.org/cord19-scigraph,Default server
-ARAGORN,ARA,['Ranking Agent'],unknown,,,,https://aragorn.renci.org,Default server
-Ontology-KP API,KP,['Standards Reference Implementation Team'],1.1.0,1.8.2,,,https://stars-app.renci.org/sparql-kp,
-ROBOKOP,,,unknown,,,,https://robokop.renci.org/api,Production server
-Genetics Provider,KP,['Genetics Provider'],unknown,,,,https://translator.broadinstitute.org/genetics_provider/trapi/v1.0,
-Automat Biolink (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/biolink/1.1,Default server
-OpenAPI for indigo NCATS Biomedical Translator Reasoner,,,unknown,,,,https://indigo.ncats.io/reasoner/api/v1/,
-Automat Hetio (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/hetio/1.1,Default server
-ARAGORN Ranker,ARA,['Ranking Agent'],unknown,,,,https://aragorn-ranker.renci.org,Default server
-Automat Panther (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/panther/1.1,Default server
-ROBOKOP Ranker,,,unknown,,,,https://robokop.renci.org/ranker/api/,
-Explanatory Agent API,ARA,['Explanatory Agent'],unknown,,,,https://explanatory-agent.azurewebsites.net/v1.0/,Production Server
-Automat KEGG (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/kegg/1.1,Default server
-Automat Gtopdb (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/gtopdb/1.1,Default server
-Automat Robokop KG (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/robokopkg/1.1,Default server
-Automat Covid Phenotypes (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/covid-phenotypes/1.1,Default server
-Automat Cord19 Scibite (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/cord19-scibite/1.1,Default server
-Automat Textmining KP (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/textminingkp/1.1,Default server
-Answer coalesce,ARA,['Ranking Agent'],unknown,,,,https://answercoalesce.renci.org/1.1,Default server
-Automat Ontological Hierarchy (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/ontological-hierarchy/1.1,Default server
-Automat Cord19 Scigraph (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/cord19-scigraph/1.1,Default server
-Automat Chembio (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/chembio/1.1,Default server
-Automat Pharos (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/pharos/1.1,Default server
-Automat MyChem (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/mychem/1.1,Default server
-Automat HMDB (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/hmdb/1.1,Default server
-Automat Human GOA (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/human-goa/1.1,Default server
-Automat Chemical normalization (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/chemical-normalization,Default server
-Automat IntAct (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/intact/1.1,Default server
-Automat Foodb (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/foodb/1.1,Default server
-Automat Viral Proteome (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/viral-proteome/1.1,Default server
-Automat HGNC (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/hgnc/1.1,Default server
-Automat Uberongraph (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/uberongraph/1.1,Default server
-Automat Covidkop KG (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/covidkopkg/1.1,Default server
-Biolink Model Lookup,Utility,['Standards Reference Implementation Team'],unknown,,,,https://bl-lookup-sri.renci.org/,Default server
-Automat GTEx (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/gtex/1.1,Default server
-ARAGORN Ranker,ARA,['Ranking Agent'],unknown,,,,https://aragorn-ranker.renci.org/1.1,Default server
-Automat CTD (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,,,https://automat.renci.org/ctd/1.1,Default server
-Explanatory Agent API,ARA,['Explanatory Agent'],1.1.0,1.8.0,,,https://explanatory-agent.azurewebsites.net/v1.1/,Production Server
-OpenAPI for NCATS Biomedical Translator Reasoners,ARA,['Unsecret Agent'],unknown,,,,unknonwn,unknown
-Molecular Data Provider for NCATS Biomedical Translator Reasoners,KP,['Molecular Data Provider'],1.0.0,,,,https://translator.broadinstitute.org/molepro/trapi/v1.0,
-OpenAPI for NCATS Biomedical Translator Reasoners,ARA,['Unsecret Agent'],unknown,,,,unknonwn,unknown
-Translator Knowledge Collaboratory API,KP,['Clinical Data Provider'],1.1.0,1.8.2,,,https://api.collaboratory.semanticscience.org,
-imProving Agent,ARA,['imProving Agent'],1.1.0-beta,1.8.0,,,https://ia.healthdatascience.cloud/api/v1.1/,dev
-OpenPredict API,KP,['Clinical Data Provider'],1.1.0,1.8.2,,,https://openpredict.semanticscience.org,
-SPOKE KP,KP,['imProving Agent'],1.1.0-beta,1.8.0,,,https://spokekp.healthdatascience.cloud/api/v1.1/,dev
-Molecular Data Provider for NCATS Biomedical Translator Reasoners,KP,['Molecular Data Provider'],1.1.0,1.8.0,,,https://translator.broadinstitute.org/molepro/trapi/v1.1,TRAPI producetion service for MolePro
-UBERON Ontology API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/uberon,Encrypted Production server
-UBERON Ontology API,KP,['Service Provider'],unknown,,,,http://biothings.ncats.io/uberon,Production server
-SmartAPI API,Utility,['Service Provider'],unknown,,,,https://smart-api.info/api,Production server
-SmartAPI API,Utility,['Service Provider'],unknown,,,,http://dev.smart-api.info/api,Development server
-Human Phenotype Ontology API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/hpo,Encrypted Production server
-Human Phenotype Ontology API,KP,['Service Provider'],unknown,,,,http://biothings.ncats.io/hpo,Production server
-Connections Hypothesis Provider API,KP,['Connections Hypothesis Provider'],1.1.0,,,,http://chp.thayer.dartmouth.edu/,Pan-Cancer Production Server
-Connections Hypothesis Provider API,KP,['Connections Hypothesis Provider'],1.1.0,,,,http://breast.chp.thayer.dartmouth.edu/,Breast Cancer Production Server
-Connections Hypothesis Provider API,KP,['Connections Hypothesis Provider'],1.1.0,,,,http://brain.chp.thayer.dartmouth.edu/,Brain Cancer Production Server
-Connections Hypothesis Provider API,KP,['Connections Hypothesis Provider'],1.1.0,,,,http://lung.chp.thayer.dartmouth.edu/,Lung Cancer Production Server
-RTX KG2,KP,['Expander Agent'],1.0.0,,,,https://arax.ncats.io/api/rtxkg2/v1.0,
-imProving Agent,ARA,['imProving Agent'],1.0.0,,,,https://evidara.healthdatascience.cloud/api/v1/,
-MyGene.info API,KP,['Service Provider'],unknown,,,,https://mygene.info/v3,Encrypted Production server
-MyGene.info API,KP,['Service Provider'],unknown,,,,http://mygene.info/v3,Production server
-MyDisease.info API,KP,['Service Provider'],unknown,,,,http://mydisease.info/v1,Production server
-MyVariant.info API,KP,['Service Provider'],unknown,,,,https://myvariant.info/v1,Encrypted Production server
-MyVariant.info API,KP,['Service Provider'],unknown,,,,http://myvariant.info/v1,Production server
-Genetics KP,KP,['Genetics Provider'],1.1.0,1.7.0,,,https://translator.broadinstitute.org/genetics_provider/trapi/v1.1,
-RTX KG2,KP,['Expander Agent'],1.1.0,1.7.0,,,https://arax.ncats.io/api/rtxkg2/v1.1,
-SEMMED Gene API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/semmedgene,Production server
-MyChem.info API,KP,['Service Provider'],unknown,,,,https://mychem.info/v1,Encrypted Production server
-MyChem.info API,KP,['Service Provider'],unknown,,,,http://mychem.info/v1,Production server
-SEMMED Biological Process API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/semmedbp,Production server
-pfocr API,KP,['Service Provider'],unknown,,,,https://pending.biothings.io/pfocr,Encrypted Production server
-pfocr API,KP,['Service Provider'],unknown,,,,http://pending.biothings.io/pfocr,Production server
-BioThings Explorer ReasonerStdAPI,ARA,['Exploring Agent'],1.1.0,,,,https://api.bte.ncats.io,
-MGIgene2phenotype API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/mgigene2phenotype,Encrypted Production server
-MGIgene2phenotype API,KP,['Service Provider'],unknown,,,,http://biothings.ncats.io/mgigene2phenotype,Production server
-DISEASES API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/DISEASES,Encrypted Production server
-DISEASES API,KP,['Service Provider'],unknown,,,,http://biothings.ncats.io/DISEASES,Production server
-SEMMED Disease API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/semmed,Production server
-SEMMED Chemical API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/semmedchemical,Production server
-EBIgene2phenotype API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/ebigene2phenotype,Encrypted Production server
-EBIgene2phenotype API,KP,['Service Provider'],unknown,,,,http://biothings.ncats.io/ebigene2phenotype,Production server
-SEMMED Anatomy API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/semmed_anatomy,Production server
-SEMMED Phenotype API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/semmedphenotype,Production server
-Gene Ontology Cellular Component API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/go_cc,Encrypted Production server
-Gene Ontology Cellular Component API,KP,['Service Provider'],unknown,,,,http://biothings.ncats.io/go_cc,Production server
-Gene Ontology Biological Process API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/go_bp,Encrypted Production server
-Gene Ontology Biological Process API,KP,['Service Provider'],unknown,,,,http://biothings.ncats.io/go_bp,Production server
-Gene Ontology Molecular Activity API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/go_mf,Encrypted Production server
-Gene Ontology Molecular Activity API,KP,['Service Provider'],unknown,,,,http://biothings.ncats.io/go_mf,Production server
-Text Mining Targeted Association API,KP,"['Text Mining Provider', 'Service Provider']",unknown,1.5.0,,,https://biothings.ncats.io/text_mining_targeted_association,Encrypted Production server
-Text Mining Targeted Association API,KP,"['Text Mining Provider', 'Service Provider']",unknown,1.5.0,,,http://biothings.ncats.io/text_mining_targeted_association,Production server
-BioThings DGIdb API,KP,['Service Provider'],unknown,,,,https://biothings.ncats.io/dgidb,Encrypted Production server
-BioThings DGIdb API,KP,['Service Provider'],unknown,,,,http://biothings.ncats.io/dgidb,Production server
-Multiomics Wellness KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,,,https://biothings.ncats.io/multiomics_wellness_kp,Encrypted Production server
-Multiomics Wellness KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,,,https://biothings.ncats.io/multiomics_wellness_kp,Production server
-Text Mining CO-OCCURRENCE API,KP,"['Text Mining Provider', 'Service Provider']",unknown,1.5.0,,,https://biothings.ncats.io/text_mining_co_occurrence_kp,Encrypted Production server
-Text Mining CO-OCCURRENCE API,KP,"['Text Mining Provider', 'Service Provider']",unknown,1.5.0,,,http://biothings.ncats.io/text_mining_co_occurrence_kp/,Production server
-TCGA Mutation Frequency KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,,,https://biothings.ncats.io/tcga_mut_freq_kp,Encrypted Production server
-TCGA Mutation Frequency KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,,,http://biothings.ncats.io/tcga_mut_freq_kp,Production server
-BioLink API,KP,['Standards Reference Implementation Team'],unknown,,,,https://api.monarchinitiative.org/api,Production server
-ARAX Translator Reasoner,ARA,['Expander Agent'],unknown,,,,https://arax.ncats.io/api/arax/v1.0,
-Drug Response KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,,,https://biothings.ncats.io/drug_response_kp,Encrypted Production server
-Drug Response KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,,,http://biothings.ncats.io/drug_response_kp,Production server
-EBI Proteins API,KP,['Service Provider'],unknown,,,,https://www.ebi.ac.uk/proteins/api,
-ARAX Translator Reasoner,ARA,['Expander Agent'],1.1.0,1.7.0,,,https://arax.ncats.io/api/arax/v1.1,
-LINCS Data Portal API,KP,['Service Provider'],unknown,,,,http://lincsportal.ccs.miami.edu/dcic/api/,Production server
-Columbia Open Health Data (COHD) for COVID-19 Research,KP,['Clinical Data Provider'],1.0.0,,,,https://covid.cohd.io/api/,
-Clinical Risk KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,,,https://biothings.ncats.io/clinical_risk_kp,Encrypted Production server
-Clinical Risk KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,,,https://biothings.ncats.io/clinical_risk_kp,Production server
-Big GIM 1 API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,,,https://biothings.ncats.io/biggim,Encrypted Production server
-Big GIM 1 API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,,,https://biothings.ncats.io/biggim,Production server
-Columbia Open Health Data (COHD),KP,['Clinical Data Provider'],1.1.0,1.8.2,,,https://cohd.io/api/,
+title,component,team,trapi_version,biolink_version,contact_name,contact_email,server_url,server_description
+Roadway Exposures API,KP,['Exposures Provider'],unknown,,Lisa Stillwell,lisa@renci.org,/roadway_proximity_api/v1,
+Socio-Environmental Exposures API,KP,['Exposures Provider'],unknown,,Lisa Stillwell,lisa@renci.org,/socio_environmental_exposures_api/v1,
+CMAQ Exposures API,KP,['Exposures Provider'],unknown,,Lisa Stillwell,lisa@renci.org,/cmaq_exposures_api/v1,
+NCATS KP Scaffold,,,unknown,,Mark Williams,mark.williams5@nih.gov,http://transltr.io:7072,Production server
+Name Resolver,Utility,['Standards Reference Implementation Team'],unknown,,Patrick Wang,patrick@covar.com,https://name-resolution-sri.renci.org/,Default server
+SRI Reference Knowledge Graph API,KP,['Standards Reference Implementation Team'],unknown,,Kent Shefchek,shefchek@oregonstate.edu,https://trapi.monarchinitiative.org,Default server
+NCATS ARA Scaffold,,,unknown,,Mark Williams,mark.williams5@nih.gov,http://transltr.io:7073,Production server
+CAM-KP API,KP,['Exposures Provider'],unknown,,Jim Balhoff,balhoff@renci.org,https://stars-app.renci.org/cam-kp,
+Edge Normalization Service,Utility,['Standards Reference Implementation Team'],unknown,,Chris Bizon,bizon@renci.org,https://edgenormalization-sri.renci.org/,Default server
+OpenAPI for NCATS Biomedical Translator Reasoners,ARA,['Unsecret Agent'],1.1.0,1.4.0,William E. Byrd,webyrd@gmail.com,https://unsecret.ncats.io/v2,Service endpoint for TRAPI 1.1
+Automat MyChem,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/mychem,Default server
+OpenTarget API,KP,['Service Provider'],unknown,,opentarget help desk,help@opentarget.org,https://platform-api.opentargets.io/v3,Production server
+Automat Pharos,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/pharos,Default server
+Node Normalization,Utility,['Standards Reference Implementation Team'],unknown,,Chris Bizon,bizon@renci.org,https://nodenormalization-sri.renci.org/,Default server
+Automat Human GOA,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/human-goa,Default server
+ICEES API,KP,['Exposures Provider'],1.1.0,,Patrick Wang,patrick@covar.com,https://icees.renci.org:16339,
+Automat HGNC,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/hgnc,Default server
+Automat HMDB,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/hmdb,Default server
+Strider,ARA,['Ranking Agent'],1.1.0,,Patrick Wang,patrick@covar.com,http://robokop.renci.org:5782,
+Automat Textmining KP,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/textminingkp,Default server
+Automat Chemical normalization,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/chemical-normalization,Default server
+Automat Gtopdb,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/gtopdb,Default server
+Automat Hetio,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/hetio,Default server
+Automat Chembio,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/chembio,Default server
+QuickGO API,KP,['Service Provider'],unknown,,pharmgkb help desk,help@pharmgkb.org,https://www.ebi.ac.uk/QuickGO/services,Production server
+Automat Panther,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/panther,Default server
+Automat Ontological Hierarchy,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/ontological-hierarchy,Default server
+Automat GTEx,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/gtex,Default server
+CAM-KP API,KP,['Exposures Provider'],1.1.0,1.8.2,Jim Balhoff,balhoff@renci.org,https://cam-kp-api-dev.renci.org,
+Automat CTD,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/ctd,Default server
+Automat Foodb,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/foodb,Default server
+ARAGORN,ARA,['Ranking Agent'],unknown,,Patrick Wang,patrick@covar.com,https://aragorn.renci.org/1.1,Default server
+ChEMBL API,,,unknown,,chembl help desk,help@chembl.org,http://www.ebi.ac.uk/chembl/api,Production server
+Automat Uberongraph,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/uberongraph,Default server
+Automat Covid Phenotypes,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/covid-phenotypes,Default server
+Ontology Lookup Service API,KP,['Service Provider'],unknown,,pharmgkb help desk,help@pharmgkb.org,https://www.ebi.ac.uk/ols/api,Production server
+LitVar API,KP,['Service Provider'],unknown,,Zhiyong Lu,luzh@ncbi.nlm.nih.gov,https://www.ncbi.nlm.nih.gov/research/bionlp/litvar/api/v1,Production server
+Automat KEGG,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/kegg,Default server
+Automat Viral Proteome,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/viral-proteome,Default server
+Automat IntAct,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/intact,Default server
+RGD API,,,unknown,,rgd help desk,help@rgd.org,https://rest.rgd.mcw.edu/rgdws,Production server
+Automat Biolink,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/biolink,Default server
+ICEES API,KP,['Exposures Provider'],1.1.0,,Patrick Wang,patrick@covar.com,https://icees.renci.org:16341,
+Node Normalization,Utility,['Standards Reference Implementation Team'],unknown,,Chris Bizon,bizon@renci.org,https://nodenormalization-sri.renci.org/1.1,Default server
+Automat Cord19 Scibite,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/cord19-scibite,Default server
+Automat Cord19 Scigraph,KP,['Ranking Agent'],unknown,,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/cord19-scigraph,Default server
+ARAGORN,ARA,['Ranking Agent'],unknown,,Patrick Wang,patrick@covar.com,https://aragorn.renci.org,Default server
+Ontology-KP API,KP,['Standards Reference Implementation Team'],1.1.0,1.8.2,Jim Balhoff,balhoff@renci.org,https://stars-app.renci.org/sparql-kp,
+ROBOKOP,,,unknown,,Patrick Wang,patrick@covar.com,https://robokop.renci.org/api,Production server
+Genetics Provider,KP,['Genetics Provider'],unknown,,Marc Duby,mduby@broadinstitute.org,https://translator.broadinstitute.org/genetics_provider/trapi/v1.0,
+Automat Biolink (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/biolink/1.1,Default server
+OpenAPI for indigo NCATS Biomedical Translator Reasoner,,,unknown,,Broad NCATS translator,translator@broadinstitute.org,https://indigo.ncats.io/reasoner/api/v1/,
+Automat Hetio (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/hetio/1.1,Default server
+ARAGORN Ranker,ARA,['Ranking Agent'],unknown,,Patrick Wang,patrick@covar.com,https://aragorn-ranker.renci.org,Default server
+Automat Panther (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/panther/1.1,Default server
+ROBOKOP Ranker,,,unknown,,Patrick Wang,patrick@covar.com,https://robokop.renci.org/ranker/api/,
+Explanatory Agent API,ARA,['Explanatory Agent'],unknown,,Rosina Weber,rw37@drexel.edu,https://explanatory-agent.azurewebsites.net/v1.0/,Production Server
+Automat KEGG (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/kegg/1.1,Default server
+Automat Gtopdb (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/gtopdb/1.1,Default server
+Automat Robokop KG (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/robokopkg/1.1,Default server
+Automat Covid Phenotypes (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/covid-phenotypes/1.1,Default server
+Automat Cord19 Scibite (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/cord19-scibite/1.1,Default server
+Automat Textmining KP (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/textminingkp/1.1,Default server
+Answer coalesce,ARA,['Ranking Agent'],unknown,,Patrick Wang,patrick@covar.com,https://answercoalesce.renci.org/1.1,Default server
+Automat Ontological Hierarchy (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/ontological-hierarchy/1.1,Default server
+Automat Cord19 Scigraph (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/cord19-scigraph/1.1,Default server
+Automat Chembio (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/chembio/1.1,Default server
+Automat Pharos (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/pharos/1.1,Default server
+Automat MyChem (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/mychem/1.1,Default server
+Automat HMDB (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/hmdb/1.1,Default server
+Automat Human GOA (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/human-goa/1.1,Default server
+Automat Chemical normalization (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/chemical-normalization,Default server
+Automat IntAct (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/intact/1.1,Default server
+Automat Foodb (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/foodb/1.1,Default server
+Automat Viral Proteome (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/viral-proteome/1.1,Default server
+Automat HGNC (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/hgnc/1.1,Default server
+Automat Uberongraph (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/uberongraph/1.1,Default server
+Automat Covidkop KG (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/covidkopkg/1.1,Default server
+Biolink Model Lookup,Utility,['Standards Reference Implementation Team'],unknown,,Chris Bizon,bizon@renci.org,https://bl-lookup-sri.renci.org/,Default server
+Automat GTEx (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/gtex/1.1,Default server
+ARAGORN Ranker,ARA,['Ranking Agent'],unknown,,Patrick Wang,patrick@covar.com,https://aragorn-ranker.renci.org/1.1,Default server
+Automat CTD (trapi v-1.1.0),KP,['Ranking Agent'],1.1.0,1.4.0,Yaphet Kebede,kebedey@renci.org,https://automat.renci.org/ctd/1.1,Default server
+Explanatory Agent API,ARA,['Explanatory Agent'],1.1.0,1.8.0,Rosina Weber,rw37@drexel.edu,https://explanatory-agent.azurewebsites.net/v1.1/,Production Server
+OpenAPI for NCATS Biomedical Translator Reasoners,ARA,['Unsecret Agent'],unknown,,,edeutsch@systemsbiology.org,unknonwn,unknown
+Molecular Data Provider for NCATS Biomedical Translator Reasoners,KP,['Molecular Data Provider'],1.0.0,,Molecular Data Provider,translator@broadinstitute.org,https://translator.broadinstitute.org/molepro/trapi/v1.0,
+OpenAPI for NCATS Biomedical Translator Reasoners,ARA,['Unsecret Agent'],unknown,,William E. Byrd,webyrd@gmail.com,unknonwn,unknown
+Translator Knowledge Collaboratory API,KP,['Clinical Data Provider'],1.1.0,1.8.2,,vincent.emonet@maastrichtuniversity.nl,https://api.collaboratory.semanticscience.org,
+imProving Agent,ARA,['imProving Agent'],1.1.0-beta,1.8.0,,brett.smith@isbscience.org,https://ia.healthdatascience.cloud/api/v1.1/,dev
+OpenPredict API,KP,['Clinical Data Provider'],1.1.0,1.8.2,,vincent.emonet@maastrichtuniversity.nl,https://openpredict.semanticscience.org,
+SPOKE KP,KP,['imProving Agent'],1.1.0-beta,1.8.0,,brett.smith@isbscience.org,https://spokekp.healthdatascience.cloud/api/v1.1/,dev
+Molecular Data Provider for NCATS Biomedical Translator Reasoners,KP,['Molecular Data Provider'],1.1.0,1.8.0,Molecular Data Provider,translator@broadinstitute.org,https://translator.broadinstitute.org/molepro/trapi/v1.1,TRAPI producetion service for MolePro
+UBERON Ontology API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/uberon,Encrypted Production server
+UBERON Ontology API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/uberon,Production server
+SmartAPI API,Utility,['Service Provider'],unknown,,Chunlei Wu,cwu@scripps.edu,https://smart-api.info/api,Production server
+SmartAPI API,Utility,['Service Provider'],unknown,,Chunlei Wu,cwu@scripps.edu,http://dev.smart-api.info/api,Development server
+Human Phenotype Ontology API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/hpo,Encrypted Production server
+Human Phenotype Ontology API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/hpo,Production server
+Connections Hypothesis Provider API,KP,['Connections Hypothesis Provider'],1.1.0,,Luke Veenhuis,luke.j.veenhuis@dartmouth.edu,http://chp.thayer.dartmouth.edu/,Pan-Cancer Production Server
+Connections Hypothesis Provider API,KP,['Connections Hypothesis Provider'],1.1.0,,Luke Veenhuis,luke.j.veenhuis@dartmouth.edu,http://breast.chp.thayer.dartmouth.edu/,Breast Cancer Production Server
+Connections Hypothesis Provider API,KP,['Connections Hypothesis Provider'],1.1.0,,Luke Veenhuis,luke.j.veenhuis@dartmouth.edu,http://brain.chp.thayer.dartmouth.edu/,Brain Cancer Production Server
+Connections Hypothesis Provider API,KP,['Connections Hypothesis Provider'],1.1.0,,Luke Veenhuis,luke.j.veenhuis@dartmouth.edu,http://lung.chp.thayer.dartmouth.edu/,Lung Cancer Production Server
+RTX KG2,KP,['Expander Agent'],1.0.0,,,edeutsch@systemsbiology.org,https://arax.ncats.io/api/rtxkg2/v1.0,
+imProving Agent,ARA,['imProving Agent'],1.0.0,,,brett.smith@isbscience.org,https://evidara.healthdatascience.cloud/api/v1/,
+MyGene.info API,KP,['Service Provider'],unknown,,Chunlei Wu,help@mygene.info,https://mygene.info/v3,Encrypted Production server
+MyGene.info API,KP,['Service Provider'],unknown,,Chunlei Wu,help@mygene.info,http://mygene.info/v3,Production server
+MyDisease.info API,KP,['Service Provider'],unknown,,Chunlei Wu,help@biothings.io,http://mydisease.info/v1,Production server
+MyVariant.info API,KP,['Service Provider'],unknown,,Chunlei Wu,help@myvariant.info,https://myvariant.info/v1,Encrypted Production server
+MyVariant.info API,KP,['Service Provider'],unknown,,Chunlei Wu,help@myvariant.info,http://myvariant.info/v1,Production server
+Genetics KP,KP,['Genetics Provider'],1.1.0,1.7.0,,mduby@broadinstitute.org,https://translator.broadinstitute.org/genetics_provider/trapi/v1.1,
+RTX KG2,KP,['Expander Agent'],1.1.0,1.7.0,,edeutsch@systemsbiology.org,https://arax.ncats.io/api/rtxkg2/v1.1,
+SEMMED Gene API,KP,['Service Provider'],unknown,,Chunlei Wu,help@biothings.io,https://biothings.ncats.io/semmedgene,Production server
+MyChem.info API,KP,['Service Provider'],unknown,,Chunlei Wu,help@biothings.io,https://mychem.info/v1,Encrypted Production server
+MyChem.info API,KP,['Service Provider'],unknown,,Chunlei Wu,help@biothings.io,http://mychem.info/v1,Production server
+SEMMED Biological Process API,KP,['Service Provider'],unknown,,Chunlei Wu,help@biothings.io,https://biothings.ncats.io/semmedbp,Production server
+pfocr API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,https://pending.biothings.io/pfocr,Encrypted Production server
+pfocr API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,http://pending.biothings.io/pfocr,Production server
+BioThings Explorer ReasonerStdAPI,ARA,['Exploring Agent'],1.1.0,,Andrew Su,asu@scripps.edu,https://api.bte.ncats.io,
+MGIgene2phenotype API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/mgigene2phenotype,Encrypted Production server
+MGIgene2phenotype API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/mgigene2phenotype,Production server
+DISEASES API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/DISEASES,Encrypted Production server
+DISEASES API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/DISEASES,Production server
+SEMMED Disease API,KP,['Service Provider'],unknown,,Chunlei Wu,help@biothings.io,https://biothings.ncats.io/semmed,Production server
+SEMMED Chemical API,KP,['Service Provider'],unknown,,Chunlei Wu,help@biothings.io,https://biothings.ncats.io/semmedchemical,Production server
+EBIgene2phenotype API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/ebigene2phenotype,Encrypted Production server
+EBIgene2phenotype API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/ebigene2phenotype,Production server
+SEMMED Anatomy API,KP,['Service Provider'],unknown,,Chunlei Wu,help@biothings.io,https://biothings.ncats.io/semmed_anatomy,Production server
+SEMMED Phenotype API,KP,['Service Provider'],unknown,,Chunlei Wu,help@biothings.io,https://biothings.ncats.io/semmedphenotype,Production server
+Gene Ontology Cellular Component API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/go_cc,Encrypted Production server
+Gene Ontology Cellular Component API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/go_cc,Production server
+Gene Ontology Biological Process API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/go_bp,Encrypted Production server
+Gene Ontology Biological Process API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/go_bp,Production server
+Gene Ontology Molecular Activity API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/go_mf,Encrypted Production server
+Gene Ontology Molecular Activity API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/go_mf,Production server
+Text Mining Targeted Association API,KP,"['Text Mining Provider', 'Service Provider']",unknown,1.5.0,Bill Baumgartner,william.baumgartner@cuanschutz.edu,https://biothings.ncats.io/text_mining_targeted_association,Encrypted Production server
+Text Mining Targeted Association API,KP,"['Text Mining Provider', 'Service Provider']",unknown,1.5.0,Bill Baumgartner,william.baumgartner@cuanschutz.edu,http://biothings.ncats.io/text_mining_targeted_association,Production server
+BioThings DGIdb API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/dgidb,Encrypted Production server
+BioThings DGIdb API,KP,['Service Provider'],unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/dgidb,Production server
+Multiomics Wellness KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/multiomics_wellness_kp,Encrypted Production server
+Multiomics Wellness KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/multiomics_wellness_kp,Production server
+Text Mining CO-OCCURRENCE API,KP,"['Text Mining Provider', 'Service Provider']",unknown,1.5.0,Bill Baumgartner,william.baumgartner@cuanschutz.edu,https://biothings.ncats.io/text_mining_co_occurrence_kp,Encrypted Production server
+Text Mining CO-OCCURRENCE API,KP,"['Text Mining Provider', 'Service Provider']",unknown,1.5.0,Bill Baumgartner,william.baumgartner@cuanschutz.edu,http://biothings.ncats.io/text_mining_co_occurrence_kp/,Production server
+TCGA Mutation Frequency KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/tcga_mut_freq_kp,Encrypted Production server
+TCGA Mutation Frequency KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/tcga_mut_freq_kp,Production server
+BioLink API,KP,['Standards Reference Implementation Team'],unknown,,Chris Mungall,cjm@berkeleybop.org,https://api.monarchinitiative.org/api,Production server
+ARAX Translator Reasoner,ARA,['Expander Agent'],unknown,,,edeutsch@systemsbiology.org,https://arax.ncats.io/api/arax/v1.0,
+Drug Response KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/drug_response_kp,Encrypted Production server
+Drug Response KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,JIWEN XIN,help@biothings.io,http://biothings.ncats.io/drug_response_kp,Production server
+EBI Proteins API,KP,['Service Provider'],unknown,,UniProt (EBI),,https://www.ebi.ac.uk/proteins/api,
+ARAX Translator Reasoner,ARA,['Expander Agent'],1.1.0,1.7.0,,edeutsch@systemsbiology.org,https://arax.ncats.io/api/arax/v1.1,
+LINCS Data Portal API,KP,['Service Provider'],unknown,,UM BD2K-LINCS DCIC,akoleti@med.miami.edu,http://lincsportal.ccs.miami.edu/dcic/api/,Production server
+Columbia Open Health Data (COHD) for COVID-19 Research,KP,['Clinical Data Provider'],1.0.0,,Casey Ta,ct2865@cumc.columbia.edu,https://covid.cohd.io/api/,
+Clinical Risk KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/clinical_risk_kp,Encrypted Production server
+Clinical Risk KP API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/clinical_risk_kp,Production server
+Big GIM 1 API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/biggim,Encrypted Production server
+Big GIM 1 API,KP,"['Multiomics Provider', 'Service Provider']",unknown,,JIWEN XIN,help@biothings.io,https://biothings.ncats.io/biggim,Production server
+Columbia Open Health Data (COHD),KP,['Clinical Data Provider'],1.1.0,1.8.2,Casey Ta,ct2865@cumc.columbia.edu,https://cohd.io/api/,
