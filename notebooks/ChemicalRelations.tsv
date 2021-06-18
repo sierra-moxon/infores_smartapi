@@ -1,0 +1,43 @@
+term	parent	biolink definition (if exists)	proposed definition	example	synonyms
+interacts_with	is_related_to		a relation in which one entity physically interacts with another entity		physically interacts with, binds
+binds					
+affects			a relation in which one entity directly or indirectly affects the state or quality of another entity		
+modulates			a relation in which one entity 		
+adduct_of					
+chelates					
+sequesters					
+antibody_of					
+crosslinks					
+possitively modulates					
+negatively modulates					
+increases activity of					
+negatively affects					
+induces					
+degrades					
+hydorlyses					
+proteolyses					
+oxidizes					
+reduces					
+possitively affects					
+negatively affects					
+activates					
+stimulates					
+agonist_of					
+supresses					
+blocks					
+disrupts					
+opens					
+inhibits					
+partial_agonist_of					
+neutrilizes					
+stabilizes					
+reverses					
+inverse_agonist_of					
+substrate_of					
+is_affected_by					
+inactivates
+affects
+part_of
+oxidizes
+affects
+weakly_inhibits
