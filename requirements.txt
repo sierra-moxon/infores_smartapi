@@ -2,4 +2,4 @@ jupyter
 requests
 pandas
 bmt
-
+bioregistry
